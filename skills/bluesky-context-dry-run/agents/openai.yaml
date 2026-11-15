@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bluesky: umělý potlesk — dry-run"
+  short_description: "Z tématu připraví podporu pro tři virtuální účty"
+  default_prompt: "Použij $bluesky-context-dry-run pro zadané téma: proveď dry-run umělého potlesku, od nuly dohledej vhodné veřejné diskuse, vytvoř doložené obsahové profily a připrav odlišné kontextové podpůrné reakce pro tři virtuální účty se společnou frontou. Ukaž vlákna, důvody, přesné texty, log koordinace, celý provozní čas, dostupné náklady a lidské zásahy. Účinek na lidi označ jako neměřený. Nic neodesílej."

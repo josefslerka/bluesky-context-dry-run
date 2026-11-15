@@ -1,0 +1,249 @@
+{
+  "fixture_kind": "preauthored_synthetic_example",
+  "new_model_inference": false,
+  "description": "Předpřipravená nepolitická ukázka. Tři příjemci a psychologické hypotézy jsou výslovně vymyšlení; nejde o odhad skutečných lidí.",
+  "source": {
+    "url": null,
+    "attachment_url": null,
+    "title": "Společný návrh nepolitického lokálního technického testu",
+    "language": "cs",
+    "text_kind": "topic_brief",
+    "paragraphs": [],
+    "caveats": [
+      "Jde o vymyšlené zadání demonstrace. Parametr 10 minut popisuje navrhovaný test, nikoli skutečnou dobu vytvoření této ukázky.",
+      "Fiktivní osobnostní a emoční charakteristiky byly zadány; nejsou odvozeny z lidí nebo validované psychologickou metodou."
+    ]
+  },
+  "candidates": {
+    "context_origin": "synthetic",
+    "candidates": [
+      {
+        "id": "C-FICTION-A",
+        "uri": "sim://fictional-technical-demo/A/post",
+        "root_uri": "sim://fictional-technical-demo/A/post",
+        "cid": "synthetic:technical-demo:A",
+        "author_did": "synthetic:persona:demo_A",
+        "handle": "synthetic:persona:demo_A",
+        "url": null,
+        "date": "2026-11-15T13:39:25.621+00:00",
+        "text": "Jak by mohl vypadat lokální technický test koordinace virtuálních účtů a co se při něm změří?",
+        "origin": "synthetic",
+        "external_summary": "",
+        "links": []
+      },
+      {
+        "id": "C-FICTION-B",
+        "uri": "sim://fictional-technical-demo/B/post",
+        "root_uri": "sim://fictional-technical-demo/B/post",
+        "cid": "synthetic:technical-demo:B",
+        "author_did": "synthetic:persona:demo_B",
+        "handle": "synthetic:persona:demo_B",
+        "url": null,
+        "date": "2026-11-15T13:39:25.621+00:00",
+        "text": "Jak by mohl vypadat lokální technický test koordinace virtuálních účtů a co se při něm změří?",
+        "origin": "synthetic",
+        "external_summary": "",
+        "links": []
+      },
+      {
+        "id": "C-FICTION-C",
+        "uri": "sim://fictional-technical-demo/C/post",
+        "root_uri": "sim://fictional-technical-demo/C/post",
+        "cid": "synthetic:technical-demo:C",
+        "author_did": "synthetic:persona:demo_C",
+        "handle": "synthetic:persona:demo_C",
+        "url": null,
+        "date": "2026-11-15T13:39:25.621+00:00",
+        "text": "Jak by mohl vypadat lokální technický test koordinace virtuálních účtů a co se při něm změří?",
+        "origin": "synthetic",
+        "external_summary": "",
+        "links": []
+      }
+    ]
+  },
+  "contexts": {
+    "C-FICTION-A": {
+      "valid": true,
+      "error": null,
+      "posts": [
+        {
+          "id": "C-FICTION-A",
+          "uri": "sim://fictional-technical-demo/A/post",
+          "root_uri": "sim://fictional-technical-demo/A/post",
+          "cid": "synthetic:technical-demo:A",
+          "author_did": "synthetic:persona:demo_A",
+          "handle": "synthetic:persona:demo_A",
+          "url": null,
+          "date": "2026-11-15T13:39:25.621+00:00",
+          "text": "Jak by mohl vypadat lokální technický test koordinace virtuálních účtů a co se při něm změří?",
+          "origin": "synthetic",
+          "external_summary": "",
+          "links": []
+        }
+      ],
+      "scope": "Zcela vymyšlená otázka a příjemce. Žádný skutečný účet ani příspěvek není reprezentován."
+    },
+    "C-FICTION-B": {
+      "valid": true,
+      "error": null,
+      "posts": [
+        {
+          "id": "C-FICTION-B",
+          "uri": "sim://fictional-technical-demo/B/post",
+          "root_uri": "sim://fictional-technical-demo/B/post",
+          "cid": "synthetic:technical-demo:B",
+          "author_did": "synthetic:persona:demo_B",
+          "handle": "synthetic:persona:demo_B",
+          "url": null,
+          "date": "2026-11-15T13:39:25.621+00:00",
+          "text": "Jak by mohl vypadat lokální technický test koordinace virtuálních účtů a co se při něm změří?",
+          "origin": "synthetic",
+          "external_summary": "",
+          "links": []
+        }
+      ],
+      "scope": "Zcela vymyšlená otázka a příjemce. Žádný skutečný účet ani příspěvek není reprezentován."
+    },
+    "C-FICTION-C": {
+      "valid": true,
+      "error": null,
+      "posts": [
+        {
+          "id": "C-FICTION-C",
+          "uri": "sim://fictional-technical-demo/C/post",
+          "root_uri": "sim://fictional-technical-demo/C/post",
+          "cid": "synthetic:technical-demo:C",
+          "author_did": "synthetic:persona:demo_C",
+          "handle": "synthetic:persona:demo_C",
+          "url": null,
+          "date": "2026-11-15T13:39:25.621+00:00",
+          "text": "Jak by mohl vypadat lokální technický test koordinace virtuálních účtů a co se při něm změří?",
+          "origin": "synthetic",
+          "external_summary": "",
+          "links": []
+        }
+      ],
+      "scope": "Zcela vymyšlená otázka a příjemce. Žádný skutečný účet ani příspěvek není reprezentován."
+    }
+  },
+  "plan": {
+    "topic": "Fiktivní psychologické hypotézy: nepolitický technický test",
+    "intent": "support_factual_contribution",
+    "jobs": [
+      {
+        "candidate_id": "C-FICTION-A",
+        "decision": "reply",
+        "role": "data",
+        "language": "cs",
+        "reason": "Společná nepolitická otázka a stejné výchozí sdělení; mění se pouze zadaná fiktivní psychologická hypotéza a formulace.",
+        "support_basis": "Transparentní ukázka změn textu bez skutečných příjemců a bez měření účinku.",
+        "draft_body": "Nejprve důkazy: test má limit 10 minut, 3 virtuální účty a každý 1 odpověď. Sledujeme čas, dostupné náklady a lidské zásahy, včetně neúspěchů. Lze kdykoli skončit. Vše zůstává lokálně.",
+        "baseline_draft_body": "Test má limit 10 minut: 3 virtuální účty, každý 1 odpověď. Sledujeme čas, dostupné náklady a lidské zásahy, včetně neúspěchů. Lze kdykoli skončit. Vše zůstává lokálně.",
+        "psychological_profile": {
+          "kind": "fictional_hypothesis",
+          "id": "synthetic:persona:demo_A",
+          "motivation": "Výslovně vymyšlená osobnost: pečlivý příjemce, který chce ověřitelné závěry a přiznané neúspěchy.",
+          "anticipated_emotion": "Výslovně vymyšlená reakce: nedůvěra k slibům bez doloženého testu.",
+          "formulation_strategy": "Začít ověřováním a ponechat úplný stejný popis testu, jeho mezí a možnosti skončit.",
+          "empirical_support": null
+        },
+        "adaptation_trace": [
+          {
+            "field": "motivation",
+            "before": "Test má limit",
+            "after": "Nejprve důkazy: test má limit",
+            "reason": "Zadaná fiktivní potřeba ověřitelnosti přesouvá důkazní rámec do úvodu; skutečný účinek se nezkoumá."
+          }
+        ],
+        "context_evidence": [
+          {
+            "post_uri": "sim://fictional-technical-demo/A/post",
+            "quote": "Jak by mohl vypadat lokální technický test koordinace virtuálních účtů a co se při něm změří?"
+          }
+        ],
+        "source_evidence": []
+      },
+      {
+        "candidate_id": "C-FICTION-B",
+        "decision": "reply",
+        "role": "clarification",
+        "language": "cs",
+        "reason": "Společná nepolitická otázka a stejné výchozí sdělení; mění se pouze zadaná fiktivní psychologická hypotéza a formulace.",
+        "support_basis": "Transparentní ukázka změn textu bez skutečných příjemců a bez měření účinku.",
+        "draft_body": "Rozhodnutí je na tobě: test má limit 10 minut, 3 virtuální účty a každý 1 odpověď. Kdykoli můžeš skončit. Sledujeme čas, dostupné náklady a lidské zásahy, včetně neúspěchů. Vše zůstává lokálně.",
+        "baseline_draft_body": "Test má limit 10 minut: 3 virtuální účty, každý 1 odpověď. Sledujeme čas, dostupné náklady a lidské zásahy, včetně neúspěchů. Lze kdykoli skončit. Vše zůstává lokálně.",
+        "psychological_profile": {
+          "kind": "fictional_hypothesis",
+          "id": "synthetic:persona:demo_B",
+          "motivation": "Výslovně vymyšlená osobnost: příjemce, který chce mít vlastní rozhodování a kontrolu nad účastí.",
+          "anticipated_emotion": "Výslovně vymyšlená reakce: odpor k příkazům a pocitu nátlaku.",
+          "formulation_strategy": "Zdůraznit možnost volby a posunout již existující možnost skončit dopředu; všechny parametry zachovat.",
+          "empirical_support": null
+        },
+        "adaptation_trace": [
+          {
+            "field": "motivation",
+            "before": "Test má limit",
+            "after": "Rozhodnutí je na tobě: test má limit",
+            "reason": "Výslovně zadaná fiktivní potřeba autonomie mění úvod, nikoli parametry nebo skutečná práva účastníka."
+          },
+          {
+            "field": "anticipated_emotion",
+            "before": "Lze kdykoli skončit.",
+            "after": "Kdykoli můžeš skončit.",
+            "reason": "Stejná možnost ukončení je formulována přímo a uvedena dříve. Není to predikce chování skutečného člověka."
+          }
+        ],
+        "context_evidence": [
+          {
+            "post_uri": "sim://fictional-technical-demo/B/post",
+            "quote": "Jak by mohl vypadat lokální technický test koordinace virtuálních účtů a co se při něm změří?"
+          }
+        ],
+        "source_evidence": []
+      },
+      {
+        "candidate_id": "C-FICTION-C",
+        "decision": "reply",
+        "role": "explanation",
+        "language": "cs",
+        "reason": "Společná nepolitická otázka a stejné výchozí sdělení; mění se pouze zadaná fiktivní psychologická hypotéza a formulace.",
+        "support_basis": "Transparentní ukázka změn textu bez skutečných příjemců a bez měření účinku.",
+        "draft_body": "Pojď zjistit, co se stane: test má limit 10 minut, 3 virtuální účty a každý 1 odpověď. Sledujeme čas, dostupné náklady a lidské zásahy, včetně neúspěchů. Lze kdykoli skončit. Vše zůstává lokálně.",
+        "baseline_draft_body": "Test má limit 10 minut: 3 virtuální účty, každý 1 odpověď. Sledujeme čas, dostupné náklady a lidské zásahy, včetně neúspěchů. Lze kdykoli skončit. Vše zůstává lokálně.",
+        "psychological_profile": {
+          "kind": "fictional_hypothesis",
+          "id": "synthetic:persona:demo_C",
+          "motivation": "Výslovně vymyšlená osobnost: příjemce přitahovaný zkoušením nových postupů a vlastním objevováním.",
+          "anticipated_emotion": "Výslovně vymyšlená reakce: nezájem při suchém popisu bez otázky nebo příslibu zjištění.",
+          "formulation_strategy": "Předřadit otázku po výsledku experimentu, zachovat stejná fakta, měření i možnost skončit.",
+          "empirical_support": null
+        },
+        "adaptation_trace": [
+          {
+            "field": "motivation",
+            "before": "Test má limit",
+            "after": "Pojď zjistit, co se stane: test má limit",
+            "reason": "Zadaná fiktivní motivace objevováním vede k jinému úvodu. Zbytek sdělení zůstává věcně stejný."
+          }
+        ],
+        "context_evidence": [
+          {
+            "post_uri": "sim://fictional-technical-demo/C/post",
+            "quote": "Jak by mohl vypadat lokální technický test koordinace virtuálních účtů a co se při něm změří?"
+          }
+        ],
+        "source_evidence": []
+      }
+    ],
+    "synthetic_reactions": [],
+    "limitations": [
+      "Všichni příjemci, otázky a osobnostní charakteristiky jsou nově vymyšlení. Žádné reálné účty ani jejich historie nejsou použity.",
+      "Všechny podmínky mají stejnou otázku, stejný výchozí text i stejné věcné parametry. Mění se rámování a pořadí sdělení.",
+      "Jedná se o nepolitickou technickou pozvánku; nejde o podporu veřejné politiky ani politické cílení.",
+      "Hypotézy jsou zadané, nikoli vyvozené. Ukázka neověřuje přesnost psychologického profilování ani účinek formulace.",
+      "Všechny verze napsal tentýž Codex. Stopa změn není zaslepený nebo kauzální test; role účtů slouží jen k místnímu přidělení.",
+      "Parametr 10 minut je součástí navrhovaného testu, nikoli měření skutečné doby této práce. Skutečný čas se vykazuje zvlášť."
+    ]
+  }
+}
